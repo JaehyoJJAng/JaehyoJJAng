@@ -28,7 +28,7 @@
 -   [[Linux] Xargs 예제 살펴보기](https://waytothem.com/blog/322/)
 -   [[Python] Paramiko 라이브러리를 이용한 SSH 업무 자동화](https://waytothem.com/blog/321/)
 -   [[Shell Script] 필요할 때 꺼내보는 쉘 스크립트 모음 [1]](https://waytothem.com/blog/320/)
--   [[Git] 1일 1커밋 자동화 스크립트 만들어보기]](https://waytothem.com/blog/319/)
+-   [[Git] 1일 1커밋 자동화 스크립트 만들어보기](https://waytothem.com/blog/320/)
 
 <!-- Blog-Post -->
 
