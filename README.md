@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jaehyo%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+i![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jaehyo%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 [<img src="https://img.shields.io/badge/My BLOG-%23009639?style=for-the-badge&logo=Bloglovin&logoColor=white">][blog] [![mail](https://img.shields.io/badge/MAIL-Aff230?style=for-the-badge&logo=GMAIL&logoColor=%23000005)](mailto:yshrim12@naver.com)
 
 ## 📚 Technologies
@@ -48,12 +48,13 @@
 
 ## ✒️ Recent Blog Posts
 
+
 <!-- Blog-Post -->
 
- -   [[Shell Script] 필요할 때 꺼내보는 쉘 스크립트 모음 [2]](https://waytothem.com/blog/323/)
- -   [[Linux] Xargs 예제 살펴보기](https://waytothem.com/blog/322/)
- -   [[Python] Paramiko 라이브러리를 이용한 SSH 업무 자동화](https://waytothem.com/blog/321/)
- -   [[Shell Script] 필요할 때 꺼내보는 쉘 스크립트 모음 [1]](https://waytothem.com/blog/320/)
- -   [[Git] 1일 1커밋 자동화 스크립트 만들어보기](https://waytothem.com/blog/320/)
+-  [[Git] 1일 1커밋 자동화 스크립트 만들어보기]((https://www.waytothem.com/blog/319/)) - Nov 25, 2022
+-  [[Shell Script] 필요할 때 꺼내보는 쉘 스크립트 모음 [1]]((https://www.waytothem.com/blog/320/)) - Nov 30, 2022
+-  [[Python] Paramiko 라이브러리를 이용한 SSH 업무 자동화]((https://www.waytothem.com/blog/321/)) - Dec 1, 2022
+-  [[Linux] Xargs 예제 살펴보기]((https://www.waytothem.com/blog/322/)) - Dec 2, 2022
+-  [[Shell Script] 필요할 때 꺼내보는 쉘 스크립트 모음 [2]]((https://www.waytothem.com/blog/323/)) - Dec 2, 2022
 
 <!-- Blog-Post -->
