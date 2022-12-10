@@ -28,7 +28,7 @@ def parser()-> list:
                     dated = contents[idx].select_one('.date').text.strip().split(' ')[0].replace('.','-')
 
                     # 링크
-                    link = "(" + "https://www.waytothem.com" + contents[idx].select_one('.link_article').attrs['href'] + ")"
+                    link = "https://www.waytothem.com" + contents[idx].select_one('.link_article').attrs['href']
                     
                     dataDic['text'] = f"[{title}]({link}) -"
                     dataDic['dated'] = dated
