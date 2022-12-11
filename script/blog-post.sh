@@ -26,9 +26,9 @@ echo -e "\n<!-- Blog-Post -->" >&3
 
 ########## ModiFied 
 #
-D=$(date "+%Y-%m-%d %H:%M")
+D=$(date "+%Y\/%m\/%d_%H\:%M")
 URL="[<img src=\"https://img.shields.io/badge/Last%20Modified-${D}-%23121212?style=flat\">]"
-echo "\n\n${URL}" >&3
+echo -e "\n\n${URL}" >&3
 
 ######### Add README.md
 /usr/bin/cat '../OLD-README.md' > ../README.md
