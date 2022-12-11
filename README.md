@@ -58,3 +58,4 @@
 -  [[Shell Script] 필요할 때 꺼내보는 쉘 스크립트 모음 [2]](https://www.waytothem.com/blog/323/) - Dec 2, 2022
 
 <!-- Blog-Post -->
+\n\n[<img src="https://img.shields.io/badge/Last%20Modified-2022-12-11 19:56-%23121212?style=flat">]
