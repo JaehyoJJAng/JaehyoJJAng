@@ -51,13 +51,13 @@
 
 <!-- Blog-Post -->
 
--  [[Shell Script] 필요할 때 꺼내보는 쉘 스크립트 모음 [1]](https://www.waytothem.com/blog/320/) - Nov 30, 2022
 -  [[Python] Paramiko 라이브러리를 이용한 SSH 업무 자동화](https://www.waytothem.com/blog/321/) - Dec 1, 2022
 -  [[Linux] Xargs 예제 살펴보기](https://www.waytothem.com/blog/322/) - Dec 2, 2022
 -  [[Shell Script] 필요할 때 꺼내보는 쉘 스크립트 모음 [2]](https://www.waytothem.com/blog/323/) - Dec 2, 2022
 -  [[Git] Remote Branch 가져오기](https://www.waytothem.com/blog/325/) - Dec 13, 2022
+-  [[GIT] Git Pull Request](https://www.waytothem.com/blog/334/) - Dec 25, 2022
 
 <!-- Blog-Post -->
 
 
-<img src="https://img.shields.io/badge/Last%20Modified-2022/12/24_18:48-%23121212?style=flat">
+<img src="https://img.shields.io/badge/Last%20Modified-2022/12/27_09:35-%23121212?style=flat">
