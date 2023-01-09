@@ -1,3 +1,7 @@
+<a href="https://github.com/drkostas">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Lee+Jaehyo;Python+%7C+Docker+%7C+Shell+Script+%7C+System+Engineer;Data+%7C+Computer+Vision+%7C+Bots+%7C+Crawling" alt="Typing SVG" />
+</a>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jaehyo%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 [<img src="https://img.shields.io/badge/My BLOG-%23009639?style=for-the-badge&logo=Bloglovin&logoColor=white">][blog] [![mail](https://img.shields.io/badge/MAIL-Aff230?style=for-the-badge&logo=GMAIL&logoColor=%23000005)](mailto:yshrim12@naver.com)
 
