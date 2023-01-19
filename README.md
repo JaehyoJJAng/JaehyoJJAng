@@ -48,7 +48,7 @@
 
 ## 💜 Stats
 
-[<img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=JaehyoJJAng&langs_count=8&layout=compact&theme=onedark&hide_border=true" alt="Top Langs" height="185" />](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [<img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=JaehyoJJAng&langs_count=8&layout=compact&theme=solarized-light&hide_border=true" alt="Top Langs" height="185" />](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaehyoJJAng&theme=onedark&border=00000000" alt="Github Streak" height="185" />](https://git.io/streak-stats#gh-dark-mode-only) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaehyoJJAng&theme=solarized-light&border=00000000" alt="Github Streak" height="185" />](https://git.io/streak-stats#gh-light-mode-only) ![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=JaehyoJJAng&show_icons=true&theme=radical)
+[<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JaehyoJJAng&langs_count=8&layout=compact&theme=onedark&hide_border=true" alt="Top Langs" height="185" />](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JaehyoJJAng&langs_count=8&layout=compact&theme=solarized-light&hide_border=true" alt="Top Langs" height="185" />](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaehyoJJAng&theme=onedark&border=00000000" alt="Github Streak" height="185" />](https://git.io/streak-stats#gh-dark-mode-only) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaehyoJJAng&theme=solarized-light&border=00000000" alt="Github Streak" height="185" />](https://git.io/streak-stats#gh-light-mode-only) ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JaehyoJJAng&show_icons=true&theme=radical)
 
 ## ✒️ Recent Blog Posts
 
@@ -64,4 +64,4 @@
 <!-- Blog-Post -->
 
 
-<img src="https://img.shields.io/badge/Last%20Modified-2023/01/19_07:01-%23121212?style=flat">
+<img src="https://img.shields.io/badge/Last%20Modified-2023/01/19_20:28-%23121212?style=flat">
