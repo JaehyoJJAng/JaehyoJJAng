@@ -1,34 +1,35 @@
+from bs4 import BeautifulSoup as bs
+from typimg import List,Dict
 import requests as rq
 import os
 import csv
-from bs4 import BeautifulSoup as bs
  
-def get_soup_obj(res):
+def get_soup_obj(res)-> bs:
     """ Soup 객체 리턴 """
     return bs(res.text,'html.parser')
 
-def parser()-> list:
+def parser()-> List[Dict[str,str]]:
     """ soup 파싱 """
-    URL = "https://waytothem.com/blog/"
-    save_data = list()
+    URL : str = "https://waytothem.com/blog/"
+    save_data : List[Dict[str,str]] = list()
     with rq.Session() as session:
         with session.get(url=URL) as response:
             if response.ok:
                 soup=get_soup_obj(res=response)
             
-                content_length = len(soup.select('li.list_horizontal_item',limit=5))
+                content_length : int = len(soup.select('li.list_horizontal_item',limit=5))
                 for idx in range(content_length):
-                    dataDic = dict()
-                    contents = soup.select('li.list_horizontal_item',limit=5)
+                    dataDic : Dict[str,str] = dict()
+                    contents : list = soup.select('li.list_horizontal_item',limit=5)
                     
                     # 제목
-                    title = contents[idx].select_one('strong.title_post').text.strip()
+                    title : str = contents[idx].select_one('strong.title_post').text.strip()
                     
                     # 날짜
-                    dated = contents[idx].select_one('.date').text.strip().split(' ')[0].replace('.','-')
+                    dated : str = contents[idx].select_one('.date').text.strip().split(' ')[0].replace('.','-')
 
                     # 링크
-                    link = "https://www.waytothem.com" + contents[idx].select_one('.link_article').attrs['href']
+                    link : str = "https://www.waytothem.com" + contents[idx].select_one('.link_article').attrs['href']
                     
                     dataDic['text'] = f"[{title}]({link}) -"
                     dataDic['dated'] = dated
@@ -36,7 +37,7 @@ def parser()-> list:
                 return save_data
                     
 def main()-> None:
-    results : list = parser()
+    results : List[Dict[str,str]] = parser()
 
     download_csv(results=results)
 
@@ -47,7 +48,7 @@ def download_csv(results: list)-> None:
     if not os.path.exists(savePath):
         os.mkdir(savePath)
         
-    leng = [v for v in range(len(results))]
+    leng : List[int] = [v for v in range(len(results))]
     leng.reverse()
 
     with open(fileName,'w',newline='') as fp:
