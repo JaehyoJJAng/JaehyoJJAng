@@ -27,3 +27,5 @@ jobs:
     - name: Execute blog-post.sh
       run: |
         script/blog-post.sh
+      env:
+        MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
