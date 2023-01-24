@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup as bs
-from typimg import List,Dict
+from typing  import List,Dict
 import requests as rq
 import os
 import csv
