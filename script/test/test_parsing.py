@@ -21,7 +21,7 @@ class ParsingTest(unittest.TestCase):
                 self.assertTrue(value)
     
     def test_download_csv(self):
-        check : bool = os.path.isfile('/home/user-01/git/JaehyoJJAng/csv/parsing.csv')
+        check : bool = os.path.isfile('/home/runner/work/JaehyoJJAng/JaehyoJJAng/csv/parsing.csv')
         self.assertTrue(check)
         
 if __name__ == '__main__':
