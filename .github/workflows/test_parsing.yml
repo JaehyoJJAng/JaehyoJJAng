@@ -29,9 +29,7 @@ jobs:
       command:
         - /bin/sh
         - -c
-        - |
-        cp csv/parsing.csv /home/runner/work/JaehyoJJAng/JaehyoJJAng/csv/parsing.csv 
-
+        - cp csv/parsing.csv /home/runner/work/JaehyoJJAng/JaehyoJJAng/csv/parsing.csv 
       run: |
         python3 script/test/test_parsing.py
       env:
