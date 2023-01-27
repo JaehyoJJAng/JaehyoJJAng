@@ -6,9 +6,7 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v3
     - name: Set up Python 3.10
@@ -24,6 +22,11 @@ jobs:
         else
           pip install -r requests bs4 typing 
         fi
+    - name: Copy parsing.py
+      command:
+        - /bin/sh
+        - -c
+        - cp -R script/parsing.py /home/runner/work/JaehyoJJAng/JaehyoJJAng/parsing.py
     - name: Execute blog-post.sh
       run: |
         script/blog-post.sh
