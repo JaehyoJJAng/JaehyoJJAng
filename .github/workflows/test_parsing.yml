@@ -26,10 +26,11 @@ jobs:
           pip install -r requests bs4 typing 
         fi
     - name: Copy csv/parsing
-      command:
-        - /bin/sh
-        - -c
-        - cp csv/parsing.csv  /home/runner/work/JaehyoJJAng/JaehyoJJAng/csv/parsing.csv
+      run:
+        command:
+          - /bin/sh
+          - -c
+          - cp csv/parsing.csv  /home/runner/work/JaehyoJJAng/JaehyoJJAng/csv/parsing.csv
     - name: parsing.py Test
       run: |
         python3 script/test/test_parsing.py
