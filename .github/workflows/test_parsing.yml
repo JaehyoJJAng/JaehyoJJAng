@@ -9,10 +9,13 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
+    - command:
+      - /bin/sh
+      - -c
+      - |
+      cp csv/parsing.csv /home/runner/work/JaehyoJJAng/JaehyoJJAng/csv/parsing.csv 
     - uses: actions/checkout@v3
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
@@ -32,3 +35,4 @@ jobs:
         python3 script/test/test_parsing.py
       env:
         MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+    
