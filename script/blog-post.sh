@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Move to WorkingDirectory
+cd /home/wogy12395/github/JaehyoJJAng/script/
 
 ########### File List
 PYTHON3=$(which python3)
