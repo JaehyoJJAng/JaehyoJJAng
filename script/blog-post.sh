@@ -3,8 +3,8 @@
 
 ########### File List
 PYTHON3=$(which python3)
-PYTHON_FILE='parsing.py'
-COMMIT_FILE='./commit.sh'
+PYTHON_FILE='/home/wogy12395/github/JaehyoJJAng/script/parsing.py'
+COMMIT_FILE='/home/wogy12395/github/JaehyoJJAng/script/commit.sh'
 #
 
 ######## Execute Python 
