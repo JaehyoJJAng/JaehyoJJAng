@@ -42,7 +42,7 @@ def main()-> None:
     download_csv(results=results)
 
 def download_csv(results: list)-> None:
-    savePath = os.path.abspath('../csv')
+    savePath = os.path.abspath('/home/wogy12395/github/JaehyoJJAng/csv')
     fileName = os.path.join(savePath,'parsing.csv')
 
     if not os.path.exists(savePath):
