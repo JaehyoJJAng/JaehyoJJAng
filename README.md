@@ -62,13 +62,13 @@
 
 <!-- Blog-Post -->
 
--  [[Linux] Xargs 예제 살펴보기](https://www.waytothem.com/blog/322/) - Dec 2, 2022
 -  [[Shell Script] 필요할 때 꺼내보는 쉘 스크립트 모음 [2]](https://www.waytothem.com/blog/323/) - Dec 2, 2022
 -  [[Git] Remote Branch 가져오기](https://www.waytothem.com/blog/325/) - Dec 13, 2022
 -  [[GIT] Git Pull Request](https://www.waytothem.com/blog/334/) - Dec 25, 2022
 -  [[GCP] 필요해서 급하게 쓰는 Docker 및 Docker-Compose 설치 가이드](https://www.waytothem.com/blog/372/) - Jan 30, 2023
+-  [[Docker] 도커 출력 옵션 : --format 명령어](https://www.waytothem.com/blog/373/) - Feb 1, 2023
 
 <!-- Blog-Post -->
 
 
-<img src="https://img.shields.io/badge/Last%20Modified-2023/02/01_01:57-%23121212?style=flat">
+<img src="https://img.shields.io/badge/Last%20Modified-2023/02/01_23:30-%23121212?style=flat">
