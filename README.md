@@ -2,6 +2,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Lee+Jaehyo;Python+%7C+Docker+%7C+Shell+Script+%7C+System+Engineer;Data+%7C+Computer+Vision+%7C+Bots+%7C+Crawling" alt="Typing SVG" />
 </a>
 
+![E3F9FBD7-2680-4B03-8AC8-2B735A568E5F](https://user-images.githubusercontent.com/91415701/216507411-0928ba42-eb64-405b-bcb6-cc2979a8f1bf.jpeg)
+
+
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
@@ -71,4 +74,4 @@
 <!-- Blog-Post -->
 
 
-<img src="https://img.shields.io/badge/Last%20Modified-2023/02/02_23:30-%23121212?style=flat">
+<img src="https://img.shields.io/badge/Last%20Modified-2023/02/03_12:43-%23121212?style=flat">
