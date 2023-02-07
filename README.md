@@ -65,13 +65,13 @@
 
 <!-- Blog-Post -->
 
--  [[Shell Script] 필요할 때 꺼내보는 쉘 스크립트 모음 [2]](https://www.waytothem.com/blog/323/) - Dec 2, 2022
--  [[Git] Remote Branch 가져오기](https://www.waytothem.com/blog/325/) - Dec 13, 2022
--  [[GIT] Git Pull Request](https://www.waytothem.com/blog/334/) - Dec 25, 2022
 -  [[GCP] 필요해서 급하게 쓰는 Docker 및 Docker-Compose 설치 가이드](https://www.waytothem.com/blog/372/) - Jan 30, 2023
 -  [[Docker] 도커 출력 옵션 : --format 명령어](https://www.waytothem.com/blog/373/) - Feb 1, 2023
+-  [Nginx Proxy를 적용한 WordPress 서비스 배포하기](https://www.waytothem.com/blog/374/) - Feb 7, 2023
+-  [[Docker] HTTPS 인증 도커 생성하기 (Let's encrypt)](https://www.waytothem.com/blog/375/) - Feb 7, 2023
+-  [[Docker] HTTPS 웹페이지 및 워드프레스 서비스 구현하기](https://www.waytothem.com/blog/376/) - Feb 7, 2023
 
 <!-- Blog-Post -->
 
 
-<img src="https://img.shields.io/badge/Last%20Modified-2023/02/06_23:30-%23121212?style=flat">
+<img src="https://img.shields.io/badge/Last%20Modified-2023/02/07_23:30-%23121212?style=flat">
