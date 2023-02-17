@@ -23,7 +23,7 @@ def parser()-> List[Dict[str,str]]:
                     contents : list = soup.select('li.list_horizontal_item',limit=5)
                     
                     # 제목
-                    title : str = contents[idx].select_one('strong.title_post').text.strip()
+                    title : str = contents[idx].select_one('strong.title_post').text.strip().replace(',','')
                     
                     # 날짜
                     dated : str = contents[idx].select_one('.date').text.strip().split(' ')[0].replace('.','-')
