@@ -1,5 +1,5 @@
-[[Docker] 도커 출력 옵션 : --format 명령어](https://www.waytothem.com/blog/373/) -,2023-02-01
-[Nginx Proxy를 적용한 WordPress 서비스 배포하기](https://www.waytothem.com/blog/374/) -,2023-02-07
 [[HTTPS] HTTPS 인증 도커 생성하기 (Let's encrypt)](https://www.waytothem.com/blog/375/) -,2023-02-07
 [[HTTPS] HTTPS 웹페이지 및 워드프레스 서비스 구현하기](https://www.waytothem.com/blog/376/) -,2023-02-07
 [[HTTPS] HTTPS 지원을 위한 인증서 자동 발급 도커 컨테이너 구축하기](https://www.waytothem.com/blog/377/) -,2023-02-09
+[[Docker-Compose] IP 고정 시키기](https://www.waytothem.com/blog/378/) -,2023-02-17
+"[[Docker-Compose] web,db,nfs 컨테이너 배포하기](https://www.waytothem.com/blog/379/) -",2023-02-17
