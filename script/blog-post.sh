@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # Move to WorkingDirectory
-cd /home/wogy12395/github/JaehyoJJAng/script/
+cd /home/ncloud/git/JaehyoJJAng/script/
 
 ########### File List
 PYTHON3=$(which python3)
-PYTHON_FILE='/home/wogy12395/github/JaehyoJJAng/script/parsing.py'
-COMMIT_FILE='/home/wogy12395/github/JaehyoJJAng/script/commit.sh'
+PYTHON_FILE='/home/ncloud/git/JaehyoJJAng/script/parsing.py'
+COMMIT_FILE='/home/ncloud/git/JaehyoJJAng/script/commit.sh'
 #
 
 ######## Execute Python 
