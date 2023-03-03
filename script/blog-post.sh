@@ -33,12 +33,12 @@ URL="<img src=\"https://img.shields.io/badge/Last%20Modified-${D}-%23121212?styl
 echo -e "\n\n${URL}" >&3
 
 ######### Add README.md
-/usr/bin/cat '../OLD-README.md' > ../README.md
-/usr/bin/cat ${SAVE_F} >> ../README.md
+/bin/cat '../OLD-README.md' > ../README.md
+/bin/cat ${SAVE_F} >> ../README.md
 #
 
 ######### line 파일 삭제
-/usr/bin/rm -rf ${SAVE_F}
+/bin/rm -rf ${SAVE_F}
 #
 
 ######### Git Commit
