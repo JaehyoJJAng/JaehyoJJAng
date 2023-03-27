@@ -57,8 +57,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=JaehyoJJAng&theme=onedark&hide_border=true&count_private=true" width=49.2% />
 </a>
-<a href="https://github.com/devpla/github-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaehyoJJAng&layout=compact&theme=onedark&hide_border=true" width=49.2% />
+<a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=JaehyoJJAng&theme=dark" width=49.2% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JaehyoJJAng&theme=one-dark&hide_border=true" width=98%/>
