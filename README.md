@@ -50,11 +50,19 @@
 
 </details>
 
-[blog]: https://www.waytothem.com/blog
+[blog]: https://jaehyojjang.github.io 
 
 ## 💜 Stats
 
-[<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JaehyoJJAng&langs_count=8&layout=compact&theme=onedark&hide_border=true" alt="Top Langs" height="185" />](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JaehyoJJAng&langs_count=8&layout=compact&theme=solarized-light&hide_border=true" alt="Top Langs" height="185" />](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaehyoJJAng&theme=onedark&border=00000000" alt="Github Streak" height="185" />](https://git.io/streak-stats#gh-dark-mode-only) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaehyoJJAng&theme=solarized-light&border=00000000" alt="Github Streak" height="185" />](https://git.io/streak-stats#gh-light-mode-only) ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JaehyoJJAng&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=JaehyoJJAng&theme=onedark&hide_border=true&count_private=true" width=49.2% />
+</a>
+<a href="https://github.com/devpla/github-stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaehyoJJAng&layout=compact&theme=onedark&hide_border=true" width=49.2% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=JaehyoJJAng&theme=one-dark&hide_border=true" width=98%/>
+</a>
 
 ## ✒️ Recent Blog Posts
 
@@ -70,4 +78,4 @@
 <!-- Blog-Post -->
 
 
-<img src="https://img.shields.io/badge/Last%20Modified-2023/03/19_23:30-%23121212?style=flat">
+<img src="https://img.shields.io/badge/Last%20Modified-2023/03/26_23:30-%23121212?style=flat">
