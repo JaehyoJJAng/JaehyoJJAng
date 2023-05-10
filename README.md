@@ -1,4 +1,4 @@
-![E3F9FBD7-2680-4B03-8AC8-2B735A568E5F](https://user-images.githubusercontent.com/91415701/216507411-0928ba42-eb64-405b-bcb6-cc2979a8f1bf.jpeg)
+<img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ndg1apykd3sdjo9g5istt9et9mbkfebpz61na2ts&rid=giphy.gif&ct=g" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen />
 
 
 <a href=#><img src="contributions.svg"></a>
@@ -54,6 +54,7 @@
 
 ## 💜 Stats
 
+![](./profile-3d-contrib/profile-green-animate.svg)
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=JaehyoJJAng&theme=onedark&hide_border=true&count_private=true" width=49.2% />
 </a>
@@ -61,8 +62,7 @@
     <img src="https://streak-stats.demolab.com/?user=JaehyoJJAng&theme=dark" width=49.2% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=JaehyoJJAng&theme=one-dark&hide_border=true" width=98%/>
-</a>
+
 
 ## ✒️ Recent Blog Posts
 
