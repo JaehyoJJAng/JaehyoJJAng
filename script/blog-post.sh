@@ -42,5 +42,5 @@ echo -e "\n\n${URL}" >&3
 #
 
 ######### Git Commit
-${COMMIT_FILE}
+bash ${COMMIT_FILE}
 #
