@@ -1,6 +1,5 @@
 <img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ndg1apykd3sdjo9g5istt9et9mbkfebpz61na2ts&rid=giphy.gif&ct=g" width="880" height="360" frameBorder="0" class="giphy-embed" allowFullScreen />
 
-
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
@@ -61,8 +60,6 @@
 <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=JaehyoJJAng&theme=dark" width=49.2% />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-
 
 ## ✒️ Recent Blog Posts
 
@@ -78,4 +75,4 @@
 <!-- Blog-Post -->
 
 
-<img src="https://img.shields.io/badge/Last%20Modified-2023/05/09_23:30-%23121212?style=flat">
+<img src="https://img.shields.io/badge/Last%20Modified-2023/05/10_23:30-%23121212?style=flat">
