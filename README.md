@@ -70,13 +70,13 @@
 
 <!-- Blog-Post -->
 
--  [[Docker-Compose] IP 고정 시키기](https://www.waytothem.com/blog/378/) - Feb 17, 2023
--  [[Docker-Compose] webdbnfs 컨테이너 배포하기](https://www.waytothem.com/blog/379/) - Feb 17, 2023
--  [[Ubuntu:20.04] vm ubuntu 초기 셋팅](https://www.waytothem.com/blog/380/) - Feb 19, 2023
--  [이것이 진짜 크롤링이다! 실전편 - 후기](https://www.waytothem.com/blog/381/) - Mar 27, 2023
--  [블로그 이전](https://www.waytothem.com/blog/383/) - Apr 21, 2023
+- [[Docker-Compose] IP 고정 시키기](https://www.waytothem.com/blog/378/) - Feb 17, 2023
+- [[Docker-Compose] webdbnfs 컨테이너 배포하기](https://www.waytothem.com/blog/379/) - Feb 17, 2023
+- [[Ubuntu:20.04] vm ubuntu 초기 셋팅](https://www.waytothem.com/blog/380/) - Feb 19, 2023
+- [이것이 진짜 크롤링이다! 실전편 - 후기](https://www.waytothem.com/blog/381/) - Mar 27, 2023
+- [블로그 이전](https://www.waytothem.com/blog/383/) - Apr 21, 2023
 
-<!-- Blog-Post -->
+<!-- Blog-Post End -->
 
 
-<img src="https://img.shields.io/badge/Last%20Modified-2023/05/10_23:30-%23121212?style=flat">
+<img src="https://img.shields.io/badge/Last%20Modified-2023/05/28_22:59-%23121212?style=flat">
