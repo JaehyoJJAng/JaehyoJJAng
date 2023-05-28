@@ -3,9 +3,6 @@ name: "Get recent blog post"
 on:
   schedule:
     - cron: "*/30 * * * *"
-  push:
-    branches:
-      - main
   workflow_dispatch:
 
 jobs:
@@ -13,8 +10,17 @@ jobs:
     name: Update README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: "1. Install dependencies"
+      - name: "1. actions Checkout"
+        uses: actions/checkout@v3      
+
+      - name: "2. Get Current time"
+        uses: 1466587594/get-current-time@v2
+        id: current-time
+        with:
+          format: YYYY-MM-DDTHH-mm-ss
+          utcOffset: "+09:00"
+          
+      - name: "3. Install dependencies"
         run:  |
           pip install --upgrade pip
           if [[ -f ./scripts/requirements.txt ]]
@@ -22,11 +28,13 @@ jobs:
             pip install -r ./scripts/requirements.txt
           else
             pip install bs4 requests
-          fi
-      - name: "2. Run Script"
+          fi 
+
+      - name: "4. Run Script"
         run: |
           bash ./scripts/blog-post.sh
-      - name: "3. Commit"
+
+      - name: "5. Commit"
         env:
           TOKEN:  ${{ secrets.TOKEN }} 
           REPOSITORY:  ${{ github.repository }} 
