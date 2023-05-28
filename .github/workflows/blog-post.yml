@@ -1,0 +1,35 @@
+name: "Get recent blog post"
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update-readme-blog-post:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: "1. Install dependencies"
+        run:  |
+          pip install --upgrade pip
+          if [[ -f ./scripts/requirements.txt ]]
+          then
+            pip install -r ./scripts/requirements.txt
+          else
+            pip install bs4 requests
+          fi
+      - name: "2. Run Script"
+        run: |
+          bash ./scripts/blog-post.sh
+      - name: "3. Commit"
+        env:
+          TOKEN:  ${{ secrets.TOKEN }} 
+          REPOSITORY:  ${{ github.repository }} 
+          MESSAGE: "Update blog post"
+          USER_NAME: ${{ secrets.USER_NAME }}
+          USER_EMAIL: ${{ secrets.USER_EMAIL }}
+        run: |
+          bash ./scripts/commit.sh

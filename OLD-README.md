@@ -58,7 +58,6 @@
 
 ## 💜 Stats
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=JaehyoJJAng&theme=onedark&hide_border=true&count_private=true" width=49.2% />
 </a>
