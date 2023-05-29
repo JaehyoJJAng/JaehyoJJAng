@@ -2,7 +2,7 @@ name: "Get recent blog post"
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "0 15 * * *"
   workflow_dispatch:
 
 jobs:
