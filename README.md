@@ -59,10 +59,10 @@
 ## 💜 Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=JaehyoJJAng&theme=onedark&hide_border=true&count_private=true" width=49.2% />
+    <img src="https://github-readme-stats.vercel.app/api?username=JaehyoJJAng&theme=onedark&hide_border=true&count_private=true" height="185" />
 </a>
 <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=JaehyoJJAng&theme=dark" width=49.2% />
+    <img src="https://streak-stats.demolab.com/?user=JaehyoJJAng&theme=dark" height="185" />
 </a>
 
 ## ✒️ Recent Blog Posts
