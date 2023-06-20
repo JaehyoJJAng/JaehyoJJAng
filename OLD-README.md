@@ -23,9 +23,13 @@
 
 ![nodejs](https://img.shields.io/badge/Django-FE7A16?style=for-the-badge&logo=django&logoColor=white)
 
+### CI/CD
+
+![github actions](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=black) ![travis ci](https://img.shields.io/badge/Travis_CI-D24939?style=for-the-badge&logo=travis&logoColor=yello)
+
 ### Databases
 
-![mysql](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Servers
 
@@ -33,7 +37,7 @@
 
 ### Container
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### Version Control
@@ -46,7 +50,7 @@
 
 ### OS
 
-![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![macOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=white)
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Learning
 
@@ -58,6 +62,7 @@
 
 ## 💜 Stats
 
-[<img src="https://github-readme-stats.vercel.app/api?username=JaehyoJJAng&theme=onedark&hide_border=true&count_private=true" height="185" />](https://github.com/anuraghazra/github-readme-stats) [<img src="https://streak-stats.demolab.com/?user=JaehyoJJAng&theme=dark" height="185" />](https://git.io/streak-stats)
+| [<img src="https://github-readme-stats.vercel.app/api?username=JaehyoJJAng&theme=onedark&hide_border=true&count_private=true" height="185" />](https://github.com/anuraghazra/github-readme-stats) |[<img src="https://streak-stats.demolab.com/?user=JaehyoJJAng&theme=dark" height="185" />](https://git.io/streak-stats)
+| ------ | ------ |
 
 ## ✒️ Recent Blog Posts
