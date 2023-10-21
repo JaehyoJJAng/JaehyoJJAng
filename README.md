@@ -70,14 +70,14 @@
 
 <!-- Blog-Post -->
 
-- [[k8s] Failed to ‘KillPodSandbox’ due to calico connection is unauthorized](https://jaehyojjang.dev/troubleshooting/k8s-killpodsandbox-calico-error/) - "June 12, 2023"
-- [[k8s] coredns error : ‘Temporary failure in name resolution’](https://jaehyojjang.dev/troubleshooting/k8s-temporary-failure-error/) - "June 12, 2023"
-- [[Docker] exec format error - Buildx (Docker Multi-Archtecture image)](https://jaehyojjang.dev/docker/multi-archtecture-image/) - "June 15, 2023"
-- [[Git] Git sparse checkout](https://jaehyojjang.dev/git/git-sparse-checkout/) - "June 15, 2023"
-- [[Docker] Docker로 ELK 모니터링 서버 구축 및 Filebeat로 로그 전송하기](https://jaehyojjang.dev/docker/ELK/) - "June 16, 2023"
-- [[Git] 로컬 / 원격 브랜치 삭제](https://jaehyojjang.dev/git/git-branch-delete/) - "June 16, 2023"
+- [[k8s] Failed to ‘KillPodSandbox’ due to calico connection is unauthorized](https://jaehyojjang.dev/troubleshooting/k8s-killpodsandbox-calico-error/) - June 12, 2023
+- [[k8s] coredns error : ‘Temporary failure in name resolution’](https://jaehyojjang.dev/troubleshooting/k8s-temporary-failure-error/) - June 12, 2023
+- [[Docker] exec format error - Buildx (Docker Multi-Archtecture image)](https://jaehyojjang.dev/docker/multi-archtecture-image/) - June 15, 2023
+- [[Git] Git sparse checkout](https://jaehyojjang.dev/git/git-sparse-checkout/) - June 15, 2023
+- [[Docker] Docker로 ELK 모니터링 서버 구축 및 Filebeat로 로그 전송하기](https://jaehyojjang.dev/docker/ELK/) - June 16, 2023
+- [[Git] 로컬 / 원격 브랜치 삭제](https://jaehyojjang.dev/git/git-branch-delete/) - June 16, 2023
 
 <!-- Blog-Post End -->
 
 
-<img src="https://img.shields.io/badge/Last%20Modified-2023/10/21_12:32-%23121212?style=flat">
+<img src="https://img.shields.io/badge/Last%20Modified-2023/10/21_18:25-%23121212?style=flat">
