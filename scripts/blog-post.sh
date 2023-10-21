@@ -21,6 +21,7 @@ echo -e "\n\n<!-- Blog-Post -->\n" >&3
 
 while IFS=',' read text dated
 do
+    dated=$(echo "${dated}" | sed 's/"//g')
     echo "- ${text} ${dated}" >&3
 done < ./csv/parsing.csv
 
