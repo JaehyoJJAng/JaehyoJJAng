@@ -70,14 +70,14 @@
 
 <!-- Blog-Post -->
 
-- [[k8s] Failed to ‘KillPodSandbox’ due to calico connection is unauthorized](https://jaehyojjang.dev/troubleshooting/k8s-killpodsandbox-calico-error/) - June 12, 2023
-- [[k8s] Failed to create pod sandbox: rpc error](https://jaehyojjang.dev/troubleshooting/k8s-createPodSandBox-calico-error/) - June 13, 2023
+- [[가상화] VMware Workstation 17 가상화 오류 - “vmware virtualized intel vt-x/ept is not supported on this platform”](https://jaehyojjang.dev/troubleshooting/vmware-VT-x-AMD-V-error/) - June 14, 2023
 - [[Docker] exec format error - Buildx (Docker Multi-Archtecture image)](https://jaehyojjang.dev/docker/multi-archtecture-image/) - June 15, 2023
 - [[Git] Git sparse checkout](https://jaehyojjang.dev/git/git-sparse-checkout/) - June 15, 2023
+- [[가상화] Vmware vSphere ESXi 설치하기](https://jaehyojjang.dev/virtualization/esxi-install/) - June 15, 2023
 - [[Docker] Docker로 ELK 모니터링 서버 구축 및 Filebeat로 로그 전송하기](https://jaehyojjang.dev/docker/ELK/) - June 16, 2023
 - [[Git] 로컬 / 원격 브랜치 삭제](https://jaehyojjang.dev/git/git-branch-delete/) - June 16, 2023
 
 <!-- Blog-Post End -->
 
 
-<img src="https://img.shields.io/badge/Last%20Modified-2023/11/05_15:15-%23121212?style=flat">
+<img src="https://img.shields.io/badge/Last%20Modified-2023/11/06_15:19-%23121212?style=flat">
