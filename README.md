@@ -70,14 +70,14 @@
 
 <!-- Blog-Post -->
 
-- [[Git] Git sparse checkout](https://jaehyojjang.dev/git/git-sparse-checkout/) - June 15, 2023
 - [[가상화] Vmware vSphere ESXi 설치하기](https://jaehyojjang.dev/virtualization/esxi-install/) - June 15, 2023
 - [[가상화] ESXi 설정 및 서버 구축하기 (Nat-Gateway)](https://jaehyojjang.dev/virtualization/esxi-nat-gateway/) - June 15, 2023
 - "[[가상화] ESXi - SAMBA NFS,DNS,DB,WEB 서버 설치하기](https://jaehyojjang.dev/virtualization/esxi-samba-nfs-docker/) -,June 15, 2023
+- [[Linux] Samba 서버 네트워크 액세스 거부 오류 (윈도우 - 리눅스 파일 공유) - you need permission to perform this action](https://jaehyojjang.dev/troubleshooting/samba-network-access-failed/) - June 15, 2023
 - [[Docker] Docker로 ELK 모니터링 서버 구축 및 Filebeat로 로그 전송하기](https://jaehyojjang.dev/docker/ELK/) - June 16, 2023
 - [[Git] 로컬 / 원격 브랜치 삭제](https://jaehyojjang.dev/git/git-branch-delete/) - June 16, 2023
 
 <!-- Blog-Post End -->
 
 
-<img src="https://img.shields.io/badge/Last%20Modified-2023/11/12_15:16-%23121212?style=flat">
+<img src="https://img.shields.io/badge/Last%20Modified-2023/11/13_15:18-%23121212?style=flat">
