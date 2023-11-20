@@ -70,8 +70,8 @@
 
 <!-- Blog-Post -->
 
-- [[Git] 로컬 / 원격 브랜치 삭제](https://jaehyojjang.dev/git/git-branch-delete/) - June 16, 2023
-- [[Linux] tcpdump를 사용하여 특정 포트로 들어오는 패킷 발신 여부 확인하기](https://jaehyojjang.dev/linux/tcpdump/) - June 16, 2023
+- [[Linux] 윈도우에서 리눅스(Ubuntu 22.04) 듀얼부팅 설정하기](https://jaehyojjang.dev/linux/window-dual-booting/) - July 1, 2023
+- [[Linux] Ubuntu 20.04 -> 22.04 LTS 버전 업그레이드](https://jaehyojjang.dev/linux/version-upgrade/) - July 2, 2023
 - "[[Shell Script] 셸 스크립트로 개발 환경 한 번에 설정 - (AWS CLI Credentials / Docker 로컬 개발환경)](https://jaehyojjang.dev/shell-script/aws-setup-script/) -,November 5, 2023
 - "[[Shell Script] <  «, «< 리다이렉션 활용](https://jaehyojjang.dev/shell-script/here-redirection/) -,November 5, 2023
 - [[Docker] 웹 파일 공유 서비스 - seafile](https://jaehyojjang.dev/docker/FileRun/) - November 15, 2023
@@ -80,4 +80,4 @@
 <!-- Blog-Post End -->
 
 
-<img src="https://img.shields.io/badge/Last%20Modified-2023/11/19_15:16-%23121212?style=flat">
+<img src="https://img.shields.io/badge/Last%20Modified-2023/11/20_15:19-%23121212?style=flat">
