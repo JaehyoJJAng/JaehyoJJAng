@@ -70,14 +70,14 @@
 
 <!-- Blog-Post -->
 
-- [[Linux] perl locale 경고 메시지 - perl waring: Setting locale failed](https://jaehyojjang.dev/troubleshooting/linux-perl-locale-error/) - July 5, 2023
-- [[Linux] Docker gpg key error - https://download.docker.com/linux/ubuntu/dists/jammy/InRelease: Key is stored in legacy trusted.gpg keyring (/etc/apt/trusted.gpg)](https://jaehyojjang.dev/troubleshooting/warning-apt-key-is-deprecated/) - July 6, 2023
+- "[[Shell Script] <  «, «< 리다이렉션 활용](https://jaehyojjang.dev/shell-script/here-redirection/) -,August 25, 2023
+- [[Shell Script] 입출력 재지정 & 파이프라인 정리](https://jaehyojjang.dev/shell-script/linux-redirection/) - September 1, 2023
 - "[[Shell Script] 셸 스크립트로 개발 환경 한 번에 설정 - (AWS CLI Credentials / Docker 로컬 개발환경)](https://jaehyojjang.dev/shell-script/aws-setup-script/) -,November 5, 2023
-- "[[Shell Script] <  «, «< 리다이렉션 활용](https://jaehyojjang.dev/shell-script/here-redirection/) -,November 5, 2023
+- [[Shell Script] 스크립트 도움말 기능 만들기](https://jaehyojjang.dev/shell-script/script-usage/) - November 6, 2023
 - [[Docker] 메모 플랫폼 Memos](https://jaehyojjang.dev/docker/memos/) - November 15, 2023
 - [[Docker] 웹 파일 공유 서비스 - seafile](https://jaehyojjang.dev/docker/seafile/) - November 15, 2023
 
 <!-- Blog-Post End -->
 
 
-<img src="https://img.shields.io/badge/Last%20Modified-2023/11/23_15:18-%23121212?style=flat">
+<img src="https://img.shields.io/badge/Last%20Modified-2023/11/24_15:18-%23121212?style=flat">
