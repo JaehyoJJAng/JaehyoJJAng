@@ -70,7 +70,7 @@
 
 <!-- Blog-Post -->
 
-- [[Shell Script] 입출력 재지정 & 파이프라인 정리](https://jaehyojjang.dev/shell-script/linux-redirection/) - September 1, 2023
+- [[Docker] certbot + nginx로 SSL 인증서 발급하기](https://jaehyojjang.dev/docker/docker-ssl-https/) - October 15, 2023
 - [[Shell Script] Java 프로젝트 배포 스크립트 - AWS Linux 2023 기반](https://jaehyojjang.dev/shell-script/aws-deploy/) - November 4, 2023
 - "[[Shell Script] 셸 스크립트로 개발 환경 한 번에 설정 - (AWS CLI Credentials / Docker 로컬 개발환경)](https://jaehyojjang.dev/shell-script/aws-setup-script/) -,November 5, 2023
 - [[Shell Script] 스크립트 도움말 기능 만들기](https://jaehyojjang.dev/shell-script/script-usage/) - November 6, 2023
@@ -80,4 +80,4 @@
 <!-- Blog-Post End -->
 
 
-<img src="https://img.shields.io/badge/Last%20Modified-2023/11/27_15:18-%23121212?style=flat">
+<img src="https://img.shields.io/badge/Last%20Modified-2023/11/28_15:19-%23121212?style=flat">
