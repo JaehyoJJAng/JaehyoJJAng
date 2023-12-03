@@ -1,6 +1,6 @@
-[[Docker] 메모 플랫폼 Memos](https://jaehyojjang.dev/docker/memos/) -,"November 15, 2023"
 [[Docker] 웹 파일 공유 서비스 - seafile](https://jaehyojjang.dev/docker/seafile/) -,"November 15, 2023"
 [[Deploy] 가상서버(Virtual Machine)에 node API 배포하기 - AWS Lightsail](https://jaehyojjang.dev/deploy/%EC%A0%84%ED%86%B5%EC%A0%81%EC%9D%B8-%EA%B0%80%EC%83%81%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC/) -,"November 20, 2023"
 [[Deploy] 배포한 VM(Lightsail)에 도메인 & HTTPS 적용하기](https://jaehyojjang.dev/deploy/%EB%B0%B0%ED%8F%AC%ED%95%9C-VM%EC%97%90-%EB%8F%84%EB%A9%94%EC%9D%B8-https-%EB%B6%99%EC%9D%B4%EA%B8%B0/) -,"November 21, 2023"
 [[Deploy] Github Actions를 사용하여 배포 자동화하기 (팀 단위)](https://jaehyojjang.dev/deploy/1-github-actions-deploy-team/) -,"November 22, 2023"
 [[Deploy] Github Actions를 사용하여 배포 자동화하기 (1인 개발 단위)](https://jaehyojjang.dev/deploy/2-github-actions-deploy-personal/) -,"November 22, 2023"
+[[Deploy] Containerize my apps - 이전에 만든 앱 컨테이너화 하기](https://jaehyojjang.dev/deploy/docker-deploy/) -,"November 23, 2023"
