@@ -70,14 +70,14 @@
 
 <!-- Blog-Post -->
 
-- [[Docker] certbot + nginx로 SSL 인증서 발급하기 - 내가 만든 사이트에 HTTPS 설정하기](https://jaehyojjang.dev/docker/docker-ssl-https/) - December 1, 2023
 - [[Deploy] Github Actions로 Djnago 블로그 배포 자동화하기!](https://jaehyojjang.dev/deploy/django-blog-deploy/) - December 1, 2023
 - [[Docker] Nginx Proxy Manager(NPM) 구축하기](https://jaehyojjang.dev/docker/nginx-proxy-manager/) - December 4, 2023
 - [[Domain] 가비아 서브 도메인 설정하기](https://jaehyojjang.dev/domain/gabia-sub-domain/) - December 5, 2023
 - [[Docker] Nginx Proxy Manager(NPM)으로 정말 간단하게 SSL 인증서 발급 받기](https://jaehyojjang.dev/docker/nginx-proxy-manager-ssl/) - December 6, 2023
 - [[Docker] Django 블로그 Nginx Proxy Manager로 서빙하기](https://jaehyojjang.dev/docker/django-nginx-proxy-manager/) - December 7, 2023
+- [[Docker] 개인 인증 서버 구축하기 - Authentik](https://jaehyojjang.dev/docker/Authentik/) - December 8, 2023
 
 <!-- Blog-Post End -->
 
 
-<img src="https://img.shields.io/badge/Last%20Modified-2023/12/08_15:18-%23121212?style=flat">
+<img src="https://img.shields.io/badge/Last%20Modified-2023/12/09_15:16-%23121212?style=flat">
