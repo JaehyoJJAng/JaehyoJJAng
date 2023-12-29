@@ -1,6 +1,6 @@
-[[Docker] Nginx Proxy Manager(NPM)으로 정말 간단하게 SSL 인증서 발급 받기](https://jaehyojjang.dev/docker/nginx-proxy-manager-ssl/) -,"December 6, 2023"
 [[Docker] Django 블로그 Nginx Proxy Manager로 서빙하기](https://jaehyojjang.dev/docker/django-nginx-proxy-manager/) -,"December 7, 2023"
 [[Docker] 개인 인증 서버 구축하기 - Authentik](https://jaehyojjang.dev/docker/Authentik/) -,"December 8, 2023"
 [[Monitoring] 도커로 운영 중인 Django 블로그에 모니터링 도입하기](https://jaehyojjang.dev/monitoring/wtt-blog-monitoring/) -,"December 9, 2023"
 [[Infra] AWS로 서비스 오픈해보기 - 요구사항](https://jaehyojjang.dev/infra/infra-workshop-0/) -,"December 15, 2023"
 [[Infra] AWS로 서비스 오픈해보기 - 망 구성 / 망 테스트](https://jaehyojjang.dev/infra/infra-workshop-1/) -,"December 15, 2023"
+[[Infra] AWS로 서비스 오픈해보기 - 서버 구성](https://jaehyojjang.dev/infra/infra-workshop-2/) -,"December 15, 2023"
