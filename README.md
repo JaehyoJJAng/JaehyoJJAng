@@ -1,7 +1,3 @@
-<img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ndg1apykd3sdjo9g5istt9et9mbkfebpz61na2ts&rid=giphy.gif&ct=g" width="880" height="360" frameBorder="0" class="giphy-embed" allowFullScreen />
-
-<a href=#><img src="contributions.svg"></a>
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/JaehyoJJAng/count.svg" />
