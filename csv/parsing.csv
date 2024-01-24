@@ -1,6 +1,6 @@
-[[Infra] AWS로 서비스 오픈해보기 - 요구사항](https://jaehyojjang.dev/infra/infra-workshop-0/) -,"December 15, 2023"
 [[Infra] AWS로 서비스 오픈해보기 - 망 구성 / 망 테스트](https://jaehyojjang.dev/infra/infra-workshop-1/) -,"December 15, 2023"
 [[Infra] AWS로 서비스 오픈해보기 - 서버 구성](https://jaehyojjang.dev/infra/infra-workshop-2/) -,"December 15, 2023"
 [[네트워크] NAT 구축 실습하기 (eve-ng)](https://jaehyojjang.dev/network/network-nat-practice/) -,"December 20, 2023"
 [[Linux] 우분투(ubuntu 22.04) openssh-server Failed with result ‘exit-code’](https://jaehyojjang.dev/troubleshooting/ubuntu-openssh-error/) -,"December 21, 2023"
 [[Linux] Ubuntu 22.04 - A start job is running for wait for network to be configured (os booting 시간 오래 걸리는 이슈)](https://jaehyojjang.dev/troubleshooting/ubuntu-starting-network-issue/) -,"December 21, 2023"
+[[Docker] 팰월드 게임 서버 구축하기](https://jaehyojjang.dev/docker/palworld-docker/) -,"January 22, 2024"
