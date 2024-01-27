@@ -66,14 +66,14 @@
 
 <!-- Blog-Post -->
 
-- [[네트워크] NAT 구축 실습하기 (eve-ng)](https://jaehyojjang.dev/network/network-nat-practice/) - December 20, 2023
-- [[Linux] 우분투(ubuntu 22.04) openssh-server Failed with result ‘exit-code’](https://jaehyojjang.dev/troubleshooting/ubuntu-openssh-error/) - December 21, 2023
 - [[Linux] Ubuntu 22.04 - A start job is running for wait for network to be configured (os booting 시간 오래 걸리는 이슈)](https://jaehyojjang.dev/troubleshooting/ubuntu-starting-network-issue/) - December 21, 2023
+- [[Docker] 도커 스웜(Docker Swarm) 알아보기](https://jaehyojjang.dev/docker-swarm/docker-swarm/) - January 1, 2024
 - [[Docker] 팰월드(Palworld) 게임 서버 구축하기](https://jaehyojjang.dev/docker/palworld-docker/) - January 22, 2024
 - [[Shell Script] 팰월드(Palworld) 세이브 데이터 백업 스크립트](https://jaehyojjang.dev/shell-script/palworld-backup-script/) - January 24, 2024
-- [[Linux] 네트워크 트래픽 최적화](https://jaehyojjang.dev/linux/network-%EC%B5%9C%EC%A0%81%ED%99%94/) - January 25, 2024
+- [[Linux] Ubuntu 네트워크 속도 향상 시키기 - TCP BBR](https://jaehyojjang.dev/linux/network-%EC%86%8D%EB%8F%84%ED%96%A5%EC%83%81/) - January 25, 2024
+- [[Linux] Ubuntu 네트워크 트래픽 최적화](https://jaehyojjang.dev/linux/network-%EC%B5%9C%EC%A0%81%ED%99%94/) - January 25, 2024
 
 <!-- Blog-Post End -->
 
 
-<img src="https://img.shields.io/badge/Last%20Modified-2024/01/26_15:17-%23121212?style=flat">
+<img src="https://img.shields.io/badge/Last%20Modified-2024/01/27_15:14-%23121212?style=flat">
