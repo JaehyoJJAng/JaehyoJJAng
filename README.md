@@ -66,14 +66,14 @@
 
 <!-- Blog-Post -->
 
-- [[Docker] 팰월드(Palworld) 게임 서버 구축하기](https://jaehyojjang.dev/docker/palworld-docker/) - January 22, 2024
 - [[Shell Script] 디스코드 웹 훅(web hook)으로 서버 자원 알림 받기](https://jaehyojjang.dev/shell-script/discord-webhook-script/) - January 22, 2024
 - [[Shell Script] 팰월드(Palworld) 세이브 데이터 백업 스크립트](https://jaehyojjang.dev/shell-script/palworld-backup-script/) - January 24, 2024
 - [[Linux] Ubuntu 네트워크 속도 향상 시키기 - TCP BBR](https://jaehyojjang.dev/linux/network-%EC%86%8D%EB%8F%84%ED%96%A5%EC%83%81/) - January 25, 2024
 - [[Linux] Ubuntu 네트워크 트래픽 최적화](https://jaehyojjang.dev/linux/network-%EC%B5%9C%EC%A0%81%ED%99%94/) - January 25, 2024
 - [[Docker] the input device is not a TTY](https://jaehyojjang.dev/troubleshooting/docker-tty-error/) - January 25, 2024
+- [[Github Pages] Jekyll 빌드 오류](https://jaehyojjang.dev/troubleshooting/jekyll-deploy-error/) - February 10, 2024
 
 <!-- Blog-Post End -->
 
 
-<img src="https://img.shields.io/badge/Last%20Modified-2024/02/09_15:16-%23121212?style=flat">
+<img src="https://img.shields.io/badge/Last%20Modified-2024/02/10_15:15-%23121212?style=flat">
