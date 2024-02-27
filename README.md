@@ -66,14 +66,14 @@
 
 <!-- Blog-Post -->
 
-- [[Linux] Ubuntu 네트워크 속도 향상 시키기 - TCP BBR](https://jaehyojjang.dev/linux/network-%EC%86%8D%EB%8F%84%ED%96%A5%EC%83%81/) - January 25, 2024
 - [[Linux] Ubuntu 네트워크 트래픽 최적화](https://jaehyojjang.dev/linux/network-%EC%B5%9C%EC%A0%81%ED%99%94/) - January 25, 2024
 - [[Docker] the input device is not a TTY](https://jaehyojjang.dev/troubleshooting/docker-tty-error/) - January 25, 2024
 - [[Linux] Ubuntu 캐쉬 메모리 주기적으로 정리하기](https://jaehyojjang.dev/linux/optimize-cache-memory/) - January 26, 2024
+- [[Docker] 팰월드(Palworld) 게임 서버 구축하기](https://jaehyojjang.dev/docker/palworld-docker/) - February 1, 2024
 - [[Docker] Palworld exporter](https://jaehyojjang.dev/docker-images/palworld-exporter/) - February 2, 2024
 - [[Github Pages] Jekyll 빌드 오류](https://jaehyojjang.dev/troubleshooting/jekyll-deploy-error/) - February 10, 2024
 
 <!-- Blog-Post End -->
 
 
-<img src="https://img.shields.io/badge/Last%20Modified-2024/02/26_15:17-%23121212?style=flat">
+<img src="https://img.shields.io/badge/Last%20Modified-2024/02/27_15:17-%23121212?style=flat">
