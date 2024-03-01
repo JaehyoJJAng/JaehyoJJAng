@@ -1,6 +1,6 @@
-"[[Linux] 네트워크 트래픽 모니터링 도구 (nethog,iftop)](https://jaehyojjang.dev/linux/nethog-iftop/) -","January 27, 2024"
 "[[Linux] 시스템 리소스 모니터링 도구 (sar,glances)](https://jaehyojjang.dev/linux/resource-monitoring/) -","January 27, 2024"
 [[Linux] 리눅스 서버를 운영하면서 꾸준히 수행해야하는 몇 가지 작업](https://jaehyojjang.dev/linux/linux-server-operate-tips/) -,"January 28, 2024"
 [[Docker] 팰월드(Palworld) 게임 서버 구축하기](https://jaehyojjang.dev/docker/palworld-docker/) -,"February 1, 2024"
 [[Docker] Palworld exporter](https://jaehyojjang.dev/docker-images/palworld-exporter/) -,"February 2, 2024"
 [[Github Pages] Jekyll 빌드 오류](https://jaehyojjang.dev/troubleshooting/jekyll-deploy-error/) -,"February 10, 2024"
+[[Linux] 윈도우(Windows 11)에서 WSL 개발 환경 구축](https://jaehyojjang.dev/linux/wsl-ubuntu-install/) -,"February 25, 2024"
