@@ -66,8 +66,8 @@
 
 <!-- Blog-Post -->
 
-- [[Linux] 우분투(Ubuntu)에 Oh My Zsh 설치하기](https://jaehyojjang.dev/linux/install-zsh/) - February 1, 2024
 - [[Docker] Palworld exporter](https://jaehyojjang.dev/docker-images/palworld-exporter/) - February 2, 2024
+- [[Docker] 깃랩(gitlab) CE(Community Edition) 서버 구축](https://jaehyojjang.dev/docker/gitlab-ce/) - February 5, 2024
 - [[Docker-Compose] Include](https://jaehyojjang.dev/docker-compose/include/) - February 10, 2024
 - [[Github Pages] Jekyll 빌드 오류](https://jaehyojjang.dev/troubleshooting/jekyll-deploy-error/) - February 10, 2024
 - [[WSL] 윈도우(Windows 11)에서 WSL 개발 환경 구축](https://jaehyojjang.dev/wsl/wsl-ubuntu-install/) - February 25, 2024
@@ -76,4 +76,4 @@
 <!-- Blog-Post End -->
 
 
-<img src="https://img.shields.io/badge/Last%20Modified-2024/03/10_15:15-%23121212?style=flat">
+<img src="https://img.shields.io/badge/Last%20Modified-2024/03/11_15:18-%23121212?style=flat">
