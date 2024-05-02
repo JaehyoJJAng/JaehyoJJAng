@@ -31,7 +31,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     feed_date = datetime.fromtimestamp(time.mktime(feed['published_parsed'])) + timedelta(hours=9)
     CUSTOM_MARKDOWN+= f"[{feed_date.strftime('%Y.%m.%d')} - {feed['title']}]({feed['link']}) <br/>\n"
 
-NOW_DATE = datetime.now().strftime('%Y/%m/%d_%H:%M')
+NOW_DATE = ( datetime.now() + timedelta(hours=9) ).strftime('%Y/%m/%d_%H:%M')
 CUSTOM_MARKDOWN+=f'\n\n<img src=\"https://img.shields.io/badge/최근%20배포일-{NOW_DATE}-%23121212?style=flat\">'
 
 with open('README.md', mode='w', encoding='utf-8') as f: 
