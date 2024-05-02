@@ -1,36 +1,33 @@
 name: "Get recent blog post"
 
 on:
+  push:
+      branches: [ "main" ]
+  pull_request:
+      branches: [ "main" ]
   schedule:
     - cron: "0 15 * * *"
   workflow_dispatch:
 
 jobs:
-  update-readme-blog-post:
-    name: Update README with latest blog posts
+  update-readme:
+    name: "my blog readme update"
     runs-on: ubuntu-latest
     steps:
-      - name: "1. actions Checkout"
-        uses: actions/checkout@v3      
-
-      - name: "2. Get Current time"
+      - uses: actions/checkout@v3
+      - name: "Get Current time"
         uses: 1466587594/get-current-time@v2
         id: current-time
         with:
           format: YYYY-MM-DDTHH-mm-ss
           utcOffset: "+09:00"
           
-      - name: "3. Install dependencies"
+      - name: "Install dependencies"
         run:  |
           pip install --upgrade pip
-          if [[ -f ./scripts/requirements.txt ]]
-          then
-            pip install -r ./scripts/requirements.txt
-          else
-            pip install bs4 requests
-          fi 
-
-      - name: "4. Run Script"
+          pip install feedparser
+          git pull
+      - name: "Run Script"
         run: |
           bash ./scripts/blog-post.sh
 
@@ -42,4 +39,4 @@ jobs:
           USER_NAME: ${{ secrets.USER_NAME }}
           USER_EMAIL: ${{ secrets.USER_EMAIL }}
         run: |
-          bash ./scripts/commit.sh
+          bash commit.sh

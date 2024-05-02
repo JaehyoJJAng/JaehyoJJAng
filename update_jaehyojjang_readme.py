@@ -1,4 +1,12 @@
+import feedparser as fd
+import time
+from datetime import datetime, timedelta
 
+URL: str = "https://jaehyojjang.dev/feed.xml"
+RSS_FEED: fd.FeedParserDict = fd.parse(URL)
+MAX_POST: int = 5
+
+CUSTOM_MARKDOWN: str = """
 <p align="center">
     Visitor count<br>
     <img src="https://profile-counter.glitch.me/JaehyoJJAng/count.svg" />
@@ -15,12 +23,16 @@
 | ------ | ------ |
 
 ## ✒️ Recent Blog Posts
-[2024.03.01 - [Docker] 폐쇄망 환경에서 Rocket.Chat 메신저 구축하기](https://JaehyoJJAng.github.io/docker-images/rocket-chat/) <br/>
-[2024.02.25 - [WSL] WSL 우분투(Ubuntu)에서 Jekyll 설치하기](https://JaehyoJJAng.github.io/wsl/wsl-ubuntu-jekyll-install/) <br/>
-[2024.02.25 - [WSL] 윈도우(Windows 11)에서 WSL 개발 환경 구축](https://JaehyoJJAng.github.io/wsl/wsl-ubuntu-install/) <br/>
-[2024.02.23 - [Python] GPT 로컬에서 돌리기 (big-AGI)](https://JaehyoJJAng.github.io/docker-images/big-agi/) <br/>
-[2024.02.22 - [Python] 칼로(Karlo) API로 이미지 생성하기](https://JaehyoJJAng.github.io/python/kakao-carlo/) <br/>
-[2024.02.10 - [Github Pages] Jekyll 빌드 오류](https://JaehyoJJAng.github.io/troubleshooting/jekyll-deploy-error/) <br/>
+"""
 
+for idx, feed in enumerate(RSS_FEED['entries']):
+    if idx > MAX_POST:
+        break
+    feed_date = datetime.fromtimestamp(time.mktime(feed['published_parsed'])) + timedelta(hours=9)
+    CUSTOM_MARKDOWN+= f"[{feed_date.strftime('%Y.%m.%d')} - {feed['title']}]({feed['link']}) <br/>\n"
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/05/02_19:41-%23121212?style=flat">
+NOW_DATE = datetime.now().strftime('%Y/%m/%d_%H:%M')
+CUSTOM_MARKDOWN+=f'\n\n<img src=\"https://img.shields.io/badge/최근%20배포일-{NOW_DATE}-%23121212?style=flat\">'
+
+with open('README.md', mode='w', encoding='utf-8') as f: 
+    f.write(CUSTOM_MARKDOWN)
