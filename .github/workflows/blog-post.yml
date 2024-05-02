@@ -26,6 +26,9 @@ jobs:
           pip install --upgrade pip
           pip install feedparser
           git pull
+      - name: "Run Update Python Script"
+        run: |
+          python update_jaehyojjang_readme.py
       - name: "commit & push"
         env:
           TOKEN:  ${{ secrets.TOKEN }} 
