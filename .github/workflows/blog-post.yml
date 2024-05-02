@@ -21,17 +21,12 @@ jobs:
         with:
           format: YYYY-MM-DDTHH-mm-ss
           utcOffset: "+09:00"
-          
       - name: "Install dependencies"
         run:  |
           pip install --upgrade pip
           pip install feedparser
           git pull
-      - name: "Run Script"
-        run: |
-          bash ./scripts/blog-post.sh
-
-      - name: "5. Commit"
+      - name: "commit & push"
         env:
           TOKEN:  ${{ secrets.TOKEN }} 
           REPOSITORY:  ${{ github.repository }} 
