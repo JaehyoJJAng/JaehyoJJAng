@@ -23,4 +23,4 @@
 [2024.02.10 - [Github Pages] Jekyll 빌드 오류](https://JaehyoJJAng.github.io/troubleshooting/jekyll-deploy-error/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/05/03_00:19-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/05/04_00:19-%23121212?style=flat">
