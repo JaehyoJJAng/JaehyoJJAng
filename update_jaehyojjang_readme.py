@@ -2,7 +2,7 @@ import feedparser as fd
 import time
 from datetime import datetime, timedelta
 
-URL: str = "https://jaehyojjang.dev/feed.xml"
+URL: str = "https://jaehyojjang.dev/rss.xml"
 RSS_FEED: fd.FeedParserDict = fd.parse(URL)
 MAX_POST: int = 5
 
