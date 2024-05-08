@@ -23,4 +23,4 @@
 [2024.02.22 - [Python] 칼로(Karlo) API로 이미지 생성하기](https://jaehyojjang.dev/language/python/2024-02-22-kakao-carlo/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/05/08_00:18-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/05/09_00:18-%23121212?style=flat">
