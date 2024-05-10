@@ -23,4 +23,4 @@
 [2024.02.25 - [WSL] WSL 우분투(Ubuntu)에서 Jekyll 설치하기](https://jaehyojjang.dev/리눅스서버/wsl/2024-02-25-wsl-ubuntu-jekyll-install/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/05/10_00:20-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/05/11_00:18-%23121212?style=flat">
