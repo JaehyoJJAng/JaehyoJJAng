@@ -23,4 +23,4 @@
 [2024.04.02 - [Docker Swarm] 도커스웜으로 배포해보기](https://jaehyojjang.dev/도커스웜/2024-04-03-swarm-deploy/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/05/23_00:20-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/05/24_00:20-%23121212?style=flat">
