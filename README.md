@@ -23,4 +23,4 @@
 [2024.04.04 - [Docker Swarm] Swarm 클러스터에 Reverse Proxy 도입하기 (Traefik)](https://jaehyojjang.dev/도커스웜/2024-04-04-swarm-traefik/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/05/31_00:20-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/06/01_00:21-%23121212?style=flat">
