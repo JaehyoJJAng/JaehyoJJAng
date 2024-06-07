@@ -15,12 +15,12 @@
 | ------ | ------ |
 
 ## ✒️ Recent Blog Posts
+[2024.06.01 - [EVE-NG] EVE-NG 서버 구축 및 장비 이미지 생성](https://jaehyojjang.dev/리눅스서버/eveng/eve-ng-install/) <br/>
 [2024.05.21 - [Python] GPT-4o API 사용해보기](https://jaehyojjang.dev/language/python/2024-05-21-gpt-4o/) <br/>
 [2024.04.10 - [Docker Swarm] 기본 웹 애플리케이션 서비스 구축해보기](https://jaehyojjang.dev/도커스웜/2024-04-10-basic-web-app/) <br/>
 [2024.04.10 - [Docker Swarm] 방문자 수 체크 애플리케이션 구축하기](https://jaehyojjang.dev/도커스웜/2024-04-10-counter-app/) <br/>
 [2024.04.10 - [Docker Swarm] 분산 파일 시스템 GlusterFS 도입하기](https://jaehyojjang.dev/도커스웜/2024-04-13-glusterFS/) <br/>
 [2024.04.06 - [Docker Swarm] Docker Stack](https://jaehyojjang.dev/도커스웜/2024-04-06-docker-stack/) <br/>
-[2024.04.04 - [Docker Swarm] Swarm 클러스터에 Reverse Proxy 도입하기 (Traefik)](https://jaehyojjang.dev/도커스웜/2024-04-04-swarm-traefik/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/06/07_00:21-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/06/08_00:21-%23121212?style=flat">
