@@ -23,4 +23,4 @@
 [2024.04.10 - [Docker Swarm] 기본 웹 애플리케이션 서비스 구축해보기](https://jaehyojjang.dev/도커스웜/2024-04-10-basic-web-app/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/06/27_00:21-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/06/28_00:21-%23121212?style=flat">
