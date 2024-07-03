@@ -15,12 +15,12 @@
 | ------ | ------ |
 
 ## ✒️ Recent Blog Posts
+[2024.06.10 - [Docker] Technitum DNS Server](https://jaehyojjang.dev/도커이미지/2024-06-10-technitium/) <br/>
 [2024.06.03 - [EVE-NG] 소규모 네트워크 환경에서의 백본 구축하기](https://jaehyojjang.dev/네트워크/2024-06-03-eve-ng-small-scale-network/) <br/>
 [2024.06.01 - [EVE-NG] EVE-NG 서버 구축 및 장비 이미지 생성](https://jaehyojjang.dev/리눅스서버/eveng/eve-ng-install/) <br/>
 [2024.05.25 - [Python] collections.defaultdict 알아보기](https://jaehyojjang.dev/language/python/2024-05-25-defaultdict/) <br/>
 [2024.05.23 - [Python] 캐싱 수행하여 성능 향상시키기 (cached_property)](https://jaehyojjang.dev/language/python/2024-05-23-cache-property/) <br/>
 [2024.05.21 - [Python] GPT-4o API 사용해보기](https://jaehyojjang.dev/language/python/2024-05-21-gpt-4o/) <br/>
-[2024.04.10 - [Docker Swarm] 기본 웹 애플리케이션 서비스 구축해보기](https://jaehyojjang.dev/도커스웜/2024-04-10-basic-web-app/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/07/03_00:19-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/07/04_00:20-%23121212?style=flat">
