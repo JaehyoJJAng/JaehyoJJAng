@@ -23,4 +23,4 @@
 [2024.05.21 - [Python] GPT-4o API 사용해보기](https://jaehyojjang.dev/language/python/2024-05-21-gpt-4o/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/07/17_00:17-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/07/18_00:23-%23121212?style=flat">
