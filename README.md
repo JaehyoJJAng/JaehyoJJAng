@@ -23,4 +23,4 @@
 [2024.05.23 - [Python] 캐싱 수행하여 성능 향상시키기 (cached_property)](https://jaehyojjang.dev/language/python/2024-05-23-cache-property/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/07/24_00:21-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/07/25_00:21-%23121212?style=flat">
