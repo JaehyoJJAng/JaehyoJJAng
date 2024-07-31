@@ -23,4 +23,4 @@
 [2024.06.04 - [Python] Pydantic으로 데이터 검증하기](https://jaehyojjang.dev/language/python/2024-06-04-pydantic/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/07/31_00:21-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/08/01_00:21-%23121212?style=flat">
