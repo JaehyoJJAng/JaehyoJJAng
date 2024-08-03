@@ -23,4 +23,4 @@
 [2024.06.05 - [Python] ORM 활용해보기](https://jaehyojjang.dev/language/python/2024-06-05-ORM-1/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/08/03_00:20-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/08/04_00:20-%23121212?style=flat">
