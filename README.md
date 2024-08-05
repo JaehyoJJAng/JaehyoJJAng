@@ -19,8 +19,8 @@
 [2024.07.03 - [Python] 셀레니움(Selenium) 로그인 유지하기](https://jaehyojjang.dev/language/python/2024-07-03-selenium-deepening/) <br/>
 [2024.06.18 - [Python] Github PR 코드 리뷰 봇 구현하기](https://jaehyojjang.dev/language/python/2024-06-18-pr-review/) <br/>
 [2024.06.10 - [Docker] Technitum DNS Server](https://jaehyojjang.dev/도커이미지/2024-06-10-technitium/) <br/>
-[2024.06.06 - [Python] ORM을 활용하여 게시판 구현해보기](https://jaehyojjang.dev/language/python/2024-06-06-ORM-2/) <br/>
+[2024.06.06 - [Python] ORM을 활용하여 fastAPI 기반 게시판 구현해보기](https://jaehyojjang.dev/language/python/2024-06-06-ORM-2/) <br/>
 [2024.06.05 - [Python] ORM 활용해보기](https://jaehyojjang.dev/language/python/2024-06-05-ORM-1/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/08/05_00:20-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/08/06_00:20-%23121212?style=flat">
