@@ -23,4 +23,4 @@
 [2024.06.06 - [Python] 파이썬 내장 함수 getattr, setattr, hasattr, delattr 사용 예시 익히기](https://jaehyojjang.dev/language/python/2024-06-07-setattr/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/08/12_00:20-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/08/13_00:22-%23121212?style=flat">
