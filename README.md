@@ -23,4 +23,4 @@
 [2024.06.10 - [Docker] Technitum DNS Server](https://jaehyojjang.dev/도커이미지/2024-06-10-technitium/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/08/23_00:23-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/08/24_00:23-%23121212?style=flat">
