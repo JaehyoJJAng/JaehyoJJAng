@@ -23,4 +23,4 @@
 [2024.06.18 - [Python] Github PR 코드 리뷰 봇 구현하기](https://jaehyojjang.dev/language/python/2024-06-18-pr-review/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/09/17_00:24-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/09/18_00:22-%23121212?style=flat">
