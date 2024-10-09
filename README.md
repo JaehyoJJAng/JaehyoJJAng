@@ -23,4 +23,4 @@
 [2024.07.03 - [Python] 스레드(Thread)와 멀티 스레딩(Multi Threading)](https://jaehyojjang.dev/language/python/2024-07-02-multi-thread/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/10/09_00:24-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/10/10_00:23-%23121212?style=flat">
