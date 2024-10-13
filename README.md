@@ -23,4 +23,4 @@
 [2024.07.04 - [Python] 셀레니움(Selenium)과 Requests 연동: 로그인 세션을 쿠키로 관리하는 방법](https://jaehyojjang.dev/language/python/2024-07-04-selenium-cookies/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/10/13_00:21-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/10/14_00:21-%23121212?style=flat">
