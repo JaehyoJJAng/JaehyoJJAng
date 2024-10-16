@@ -15,12 +15,12 @@
 | ------ | ------ |
 
 ## ✒️ Recent Blog Posts
+[2024.08.14 - [Python] PySide6를 활용하여 GUI 개발해보기](https://jaehyojjang.dev/language/python/2024-08-14-PySide6/) <br/>
 [2024.08.02 - [Python] 엑셀 데이터를 키워드로 필터링 및 취합하는 방법](https://jaehyojjang.dev/language/python/2024-08-02-excel-keyword-filter/) <br/>
 [2024.07.25 - [Linux] DNS 레코드(record) 이해하기](https://jaehyojjang.dev/리눅스서버/리눅스/2024-07-25-dns-record/) <br/>
 [2024.07.20 - [Linux] 리눅스 512GB HDD -> 2TB HDD 마이그레이션 (GParted, rsync)](https://jaehyojjang.dev/리눅스서버/리눅스/2024-07-20-disk-migration/) <br/>
 [2024.07.16 - [Linux] iperf3으로 네트워크 대역폭 성능 테스트하기](https://jaehyojjang.dev/리눅스서버/리눅스/2024-07-16-iperf3/) <br/>
 [2024.07.15 - [Linux] Rsync로 대용량 데이터 마이그레이션하기](https://jaehyojjang.dev/리눅스서버/리눅스/2024-07-15-rsync-migration/) <br/>
-[2024.07.04 - [Python] 셀레니움(Selenium)과 Requests 연동: 로그인 세션을 쿠키로 관리하는 방법](https://jaehyojjang.dev/language/python/2024-07-04-selenium-cookies/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/10/16_00:23-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/10/17_00:24-%23121212?style=flat">
