@@ -23,4 +23,4 @@
 [2024.07.15 - [Linux] Rsync로 대용량 데이터 마이그레이션하기](https://jaehyojjang.dev/리눅스서버/리눅스/2024-07-15-rsync-migration/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/10/17_00:24-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/10/18_00:22-%23121212?style=flat">
