@@ -23,4 +23,4 @@
 [2024.07.16 - [Linux] iperf3으로 네트워크 대역폭 성능 테스트하기](https://jaehyojjang.dev/리눅스서버/리눅스/2024-07-16-iperf3/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/10/19_00:23-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/10/20_00:20-%23121212?style=flat">
