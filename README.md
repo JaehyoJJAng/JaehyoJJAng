@@ -23,4 +23,4 @@
 [2024.07.20 - [Linux] 리눅스 512GB HDD -> 2TB HDD 마이그레이션 (GParted, rsync)](https://jaehyojjang.dev/리눅스서버/리눅스/2024-07-20-disk-migration/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/10/24_00:23-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/10/25_00:22-%23121212?style=flat">
