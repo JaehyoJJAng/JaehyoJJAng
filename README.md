@@ -23,4 +23,4 @@
 [2024.08.01 - [Linux] 리눅스에서 HAProxy를 활용한 로드밸런싱 가이드](https://jaehyojjang.dev/리눅스서버/리눅스/2024-08-01-HAproxy/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/10/28_00:21-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/10/29_00:24-%23121212?style=flat">
