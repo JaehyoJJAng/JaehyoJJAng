@@ -23,4 +23,4 @@
 [2024.08.02 - [Python] 엑셀 데이터를 키워드로 필터링 및 취합하는 방법](https://jaehyojjang.dev/language/python/2024-08-02-excel-keyword-filter/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/10/30_00:24-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/10/31_00:23-%23121212?style=flat">
