@@ -23,4 +23,4 @@
 [2024.08.14 - [Python / GUI] PySide6를 활용하여 GUI 개발해보기](https://jaehyojjang.dev/language/python/2024-08-14-PySide6/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/11/06_00:23-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/11/07_00:23-%23121212?style=flat">
