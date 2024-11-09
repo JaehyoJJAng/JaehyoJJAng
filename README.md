@@ -23,4 +23,4 @@
 [2024.08.15 - [Python / GUI] PySide6 + Selenium: 앱 종료 시 브라우저도 안전하게 닫기](https://jaehyojjang.dev/language/python/2024-08-15-PySide6-selenium/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/11/09_00:23-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/11/10_00:22-%23121212?style=flat">
