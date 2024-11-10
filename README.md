@@ -20,4 +20,4 @@
 [2024.08.16 - [Python / GUI] PySide6: QDateEdit 위젯 활용 및 날짜 검증](https://jaehyojjang.dev/language/python/2024-08-16-PySide6-date-widget/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/11/10_14:45-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/11/11_00:20-%23121212?style=flat">
