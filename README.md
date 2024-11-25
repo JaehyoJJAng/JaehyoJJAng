@@ -20,4 +20,4 @@
 [2024.08.17 - [Python / GUI] PySide6: QScrollArea 활용법](https://jaehyojjang.dev/language/python/2024-08-17-PySide6-scroll-area/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/11/25_00:21-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/11/26_00:25-%23121212?style=flat">
