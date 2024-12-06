@@ -20,4 +20,4 @@
 [2024.08.19 - [Python / GUI] QThread 안전하게 종료하는 방법](https://jaehyojjang.dev/language/python/2024-08-21-PySide6-QThread-safe-quit/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/12/06_00:25-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/12/07_00:24-%23121212?style=flat">
