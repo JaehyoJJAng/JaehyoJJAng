@@ -20,4 +20,4 @@
 [2024.08.23 - [Python / GUI] PySide6: 프로그램 만료일자 기능 구현](https://jaehyojjang.dev/language/python/2024-08-23-PySide6-validate/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/12/08_00:22-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/12/09_00:22-%23121212?style=flat">
