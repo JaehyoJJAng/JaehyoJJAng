@@ -20,4 +20,4 @@
 [2024.09.10 - [Python / GUI] 간단한 동적 UI 구현 (QComboBox.currentIndexChanged)](https://jaehyojjang.dev/language/python/2024-09-10-PySide6-QLineEdit-validator/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/12/18_00:25-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/12/19_00:24-%23121212?style=flat">
