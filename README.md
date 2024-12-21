@@ -15,9 +15,9 @@
 [2024.12.01 - [Linux] VPN 오픈소스 소프트웨어 OpenVPN을 사용하여 VPN 서버 구축하기](https://jaehyojjang.dev/리눅스서버/리눅스/2024-12-01-ubuntu-openvpn/) <br/>
 [2024.11.18 - [Python] curl_cffi 사용법](https://jaehyojjang.dev/language/python/2024-11-18-curl_cffi/) <br/>
 [2024.10.25 - [Python] 나만의 슬랙 봇(Slack Bot) 만들기](https://jaehyojjang.dev/language/python/2024-10-25-slack-bot/) <br/>
-[2024.09.11 - [Python / GUI] PySide6로 지역 선택 기능 구현해보기: 시/도, 시/군/구, 읍/면/동](https://jaehyojjang.dev/language/python/2024-09-11-PySide6-area-select/) <br/>
-[2024.09.10 - [Python / GUI] QLineEdit에 숫자만 입력받도록 하기](https://jaehyojjang.dev/language/python/2024-09-10-PySide6-QComboBox-changeindex/) <br/>
-[2024.09.10 - [Python / GUI] 간단한 동적 UI 구현 (QComboBox.currentIndexChanged)](https://jaehyojjang.dev/language/python/2024-09-10-PySide6-QLineEdit-validator/) <br/>
+[2024.09.21 - [Python] 디스코드(Discord) 모달(Form)과 콤보박스(Select) 활용법](https://jaehyojjang.dev/language/python/2024-09-21-discord-dynamic-combobox/) <br/>
+[2024.09.20 - [Python] 디스코드(Discord) Select를 활용하여 콤보박스 구현하기](https://jaehyojjang.dev/language/python/2024-09-20-discord-select-combobox/) <br/>
+[2024.09.19 - [Python] 디스코드(Discord) 문의 기능 구현하기](https://jaehyojjang.dev/language/python/2024-09-19-discord-inquiry-bot/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/12/21_00:22-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/12/22_00:19-%23121212?style=flat">
