@@ -20,4 +20,4 @@
 [2024.09.19 - [Python] 디스코드(Discord) 문의 기능 구현하기](https://jaehyojjang.dev/language/python/2024-09-19-discord-inquiry-bot/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2024/12/22_00:19-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2024/12/23_00:19-%23121212?style=flat">
