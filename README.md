@@ -20,4 +20,4 @@
 [2024.09.20 - [Python] 디스코드(Discord) Select를 활용하여 콤보박스 구현하기](https://jaehyojjang.dev/language/python/2024-09-20-discord-select-combobox/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/01/08_01:02-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/01/09_00:23-%23121212?style=flat">
