@@ -20,4 +20,4 @@
 [2024.09.21 - [Python] 디스코드(Discord) 모달(Form)과 콤보박스(Select) 활용법](https://jaehyojjang.dev/language/python/2024-09-21-discord-dynamic-combobox/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/01/18_00:21-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/01/19_00:19-%23121212?style=flat">
