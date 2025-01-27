@@ -20,4 +20,4 @@
 [2024.10.25 - [Python] 나만의 슬랙 봇(Slack Bot) 만들기](https://jaehyojjang.dev/language/python/2024-10-25-slack-bot/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/01/27_00:20-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/01/28_00:19-%23121212?style=flat">
