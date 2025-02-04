@@ -20,4 +20,4 @@
 [2024.11.01 - [Python] 도커 SDK 제어해보기 - 컨테이너 조회 / 컨테이너 명령 실행 등](https://jaehyojjang.dev/language/python/2024-11-01-docker-sdk/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/02/04_00:22-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/02/05_00:23-%23121212?style=flat">
