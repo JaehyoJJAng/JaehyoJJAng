@@ -20,4 +20,4 @@
 [2024.11.09 - [Python] 파이썬 로깅 (logging)](https://jaehyojjang.dev/language/python/2024-11-09-logger/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/02/20_00:24-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/02/21_00:24-%23121212?style=flat">
