@@ -20,4 +20,4 @@
 [2024.12.01 - [Linux] VPN 오픈소스 소프트웨어 OpenVPN으로 VPN 서버 구축하기](https://jaehyojjang.dev/리눅스서버/리눅스/2024-12-01-ubuntu-openvpn/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/03/04_00:24-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/03/05_00:25-%23121212?style=flat">
