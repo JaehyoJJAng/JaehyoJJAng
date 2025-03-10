@@ -16,8 +16,8 @@
 [2025.01.10 - [Python] FastAPI와 SQLite를 활용하여 ORM 기반 인증 서버 구현해보기!](https://jaehyojjang.dev/language/python/2025-01-10-hardware-certification/) <br/>
 [2025.01.05 - [PNETLAB] PNETLab 설치 및 ishare2로 장비 이미지 다운로드하기](https://jaehyojjang.dev/네트워크/eve-ng/2025-01-05-pnetlab/) <br/>
 [2025.01.05 - [Linux] LXC(Linux Containers)에 대해서 알아보기](https://jaehyojjang.dev/리눅스서버/리눅스/2025-01-05-lxc-vs-docker/) <br/>
-[2024.12.02 - [Linux] VPN 오픈소스 소프트웨어 Wireguard로 VPN 서버 구축하기](https://jaehyojjang.dev/리눅스서버/리눅스/2024-12-02-ubuntu-wireguard/) <br/>
-[2024.12.01 - [Linux] VPN 오픈소스 소프트웨어 OpenVPN으로 VPN 서버 구축하기](https://jaehyojjang.dev/리눅스서버/리눅스/2024-12-01-ubuntu-openvpn/) <br/>
+[2024.12.26 - [Linux] Nginx에서 HTTPS 설정하기 - Let's Encrypt로 인증서 발급 및 자동 갱신까지!](https://jaehyojjang.dev/리눅스서버/리눅스/2024-12-26-linux-lets-encrypt/) <br/>
+[2024.12.18 - [NGINX] Nginx에서 root와 alias의 차이점 분석하기 - 404 not found 문제 해결](https://jaehyojjang.dev/리눅스서버/리눅스/2024-12-18-nginx-root-alias-diff/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/03/10_00:19-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/03/11_00:25-%23121212?style=flat">
