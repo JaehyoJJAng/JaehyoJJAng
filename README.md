@@ -17,7 +17,7 @@
 [2025.01.05 - [PNETLAB] PNETLab 설치 및 ishare2로 장비 이미지 다운로드하기](https://jaehyojjang.dev/네트워크/eve-ng/2025-01-05-pnetlab/) <br/>
 [2025.01.05 - [Linux] LXC(Linux Containers)에 대해서 알아보기](https://jaehyojjang.dev/리눅스서버/리눅스/2025-01-05-lxc-vs-docker/) <br/>
 [2024.12.26 - [Linux] Nginx에서 HTTPS 설정하기 - Let's Encrypt로 인증서 발급 및 자동 갱신까지!](https://jaehyojjang.dev/리눅스서버/리눅스/2024-12-26-linux-lets-encrypt/) <br/>
-[2024.12.18 - [NGINX] Nginx에서 root와 alias의 차이점 분석하기 - 404 not found 문제 해결](https://jaehyojjang.dev/리눅스서버/리눅스/2024-12-18-nginx-root-alias-diff/) <br/>
+[2024.12.18 - [Linux] Ubuntu 22.04에서 오픈 소스 프로젝트 미러(Mirror) 서버 운영하기 (feat. Proxmox ISO)](https://jaehyojjang.dev/리눅스서버/리눅스/2024-12-18-mirror-server/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/03/11_00:25-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/03/12_00:25-%23121212?style=flat">
