@@ -20,4 +20,4 @@
 [2024.12.18 - [Linux] Ubuntu 22.04에서 오픈 소스 프로젝트 미러(Mirror) 서버 운영하기 (feat. Proxmox ISO)](https://jaehyojjang.dev/리눅스서버/리눅스/2024-12-18-mirror-server/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/03/26_00:26-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/03/27_00:26-%23121212?style=flat">
