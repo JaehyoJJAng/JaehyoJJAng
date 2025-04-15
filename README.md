@@ -20,4 +20,4 @@
 [2024.12.26 - [Linux] Nginx에서 HTTPS 설정하기 - Let's Encrypt로 인증서 발급 및 자동 갱신까지!](https://jaehyojjang.dev/리눅스서버/리눅스/2024-12-26-linux-lets-encrypt/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/04/15_00:25-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/04/16_00:26-%23121212?style=flat">
