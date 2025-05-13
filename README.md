@@ -6,11 +6,6 @@
 
 <br>
 
-## 💜 Stats
-
-| [<img src="https://github-readme-stats.vercel.app/api?username=JaehyoJJAng&theme=onedark&hide_border=true&count_private=true" height="185" />](https://github.com/anuraghazra/github-readme-stats) |[<img src="https://streak-stats.demolab.com/?user=JaehyoJJAng&theme=dark" height="185" />](https://git.io/streak-stats)
-| ------ | ------ |
-
 ## ✒️ Recent Blog Posts
 [2025.04.01 - [Blog] 옵시디언(Obsidian)으로 블로그 만들어보기 (Feat. Quartz)](https://jaehyojjang.dev/블로그구축/quartz/) <br/>
 [2025.03.20 - [k8s] 쿠버네티스 클러스터 버전 업그레이드 방법 및 주의사항](https://jaehyojjang.dev/쿠버네티스/쿠버네티스 기본/2025-03-20-cluster-upgrade/) <br/>
