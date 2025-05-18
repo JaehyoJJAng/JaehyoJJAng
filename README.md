@@ -15,4 +15,4 @@
 [2025.01.05 - [Linux] LXC(Linux Containers)에 대해서 알아보기](https://jaehyojjang.dev/리눅스서버/리눅스/2025-01-05-lxc-vs-docker/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/05/18_00:22-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/05/19_00:22-%23121212?style=flat">
