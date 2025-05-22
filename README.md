@@ -15,4 +15,4 @@
 [2025.01.05 - [PNETLAB] PNETLab 설치 및 ishare2로 장비 이미지 다운로드하기](https://jaehyojjang.dev/네트워크/eve-ng/2025-01-05-pnetlab/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/05/22_00:27-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/05/23_00:27-%23121212?style=flat">
