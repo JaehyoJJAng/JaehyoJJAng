@@ -15,4 +15,4 @@
 [2025.01.10 - [Python] FastAPI와 SQLite를 활용하여 ORM 기반 인증 서버 구현해보기!](https://jaehyojjang.dev/language/python/2025-01-10-hardware-certification/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/06/01_00:23-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/06/02_00:23-%23121212?style=flat">
