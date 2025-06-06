@@ -15,4 +15,4 @@
 [2025.01.25 - [Arch] Arch Linux(아치 리눅스) 설치하기](https://jaehyojjang.dev/리눅스서버/arch/arch-install-guide/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/06/06_00:27-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/06/07_00:24-%23121212?style=flat">
