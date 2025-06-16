@@ -15,4 +15,4 @@
 [2025.02.01 - [Arch] 아치 리눅스(arch linux)의 패키지 매니저 알아보기](https://jaehyojjang.dev/리눅스서버/arch/arch-aur/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/06/16_00:23-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/06/17_00:28-%23121212?style=flat">
