@@ -15,4 +15,4 @@
 [2025.02.10 - [Arch] Arch Linux(아치 리눅스) 네트워크 인터페이스 수정 일대기](https://jaehyojjang.dev/리눅스서버/arch/arch-nmcli/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/06/27_00:27-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/06/28_00:26-%23121212?style=flat">
