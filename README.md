@@ -15,4 +15,4 @@
 [2025.02.10 - [Docker / 모니터링] Opensearch 설치 및 대시보드 설정하기](https://jaehyojjang.dev/모니터링/opensearch/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/07/03_00:28-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/07/04_00:27-%23121212?style=flat">
