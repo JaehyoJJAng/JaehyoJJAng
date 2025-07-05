@@ -15,4 +15,4 @@
 [2025.02.15 - [Linux] 작성한 스크립트 systemd 서비스 등록 및 타이머 지정하는 방법](https://jaehyojjang.dev/리눅스서버/리눅스/systemd-timer/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/07/05_00:26-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/07/06_00:24-%23121212?style=flat">
