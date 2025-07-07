@@ -12,7 +12,7 @@
 [2025.03.11 - [Docker / 모니터링] cAdvisor로 컨테이너 관리하기](https://jaehyojjang.dev/모니터링/cAdvisor/) <br/>
 [2025.03.10 - [Docker / 모니터링] nginx 메트릭(Metric) 시각화하기](https://jaehyojjang.dev/모니터링/grafana-nginx-exporter/) <br/>
 [2025.03.05 - [Linux] 클라우드 플레어(Cloud Flare)로 홈 서버 IP 보호하는 방법](https://jaehyojjang.dev/리눅스서버/리눅스/cloudflare-proxy/) <br/>
-[2025.02.15 - [Linux] 작성한 스크립트 systemd 서비스 등록 및 타이머 지정하는 방법](https://jaehyojjang.dev/리눅스서버/리눅스/systemd-timer/) <br/>
+[2025.03.03 - [Linux] endlessh-go로 허니팟 대시보드 만들기](https://jaehyojjang.dev/리눅스서버/리눅스/endlessh-honeypot/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/07/07_00:24-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/07/08_00:26-%23121212?style=flat">
