@@ -15,4 +15,4 @@
 [2025.03.03 - [Linux] endlessh-go로 허니팟 대시보드 만들기](https://jaehyojjang.dev/리눅스서버/리눅스/endlessh-honeypot/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/07/11_00:29-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/07/12_00:28-%23121212?style=flat">
