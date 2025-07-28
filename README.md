@@ -15,4 +15,4 @@
 [2025.03.10 - [Docker / 모니터링] nginx 메트릭(Metric) 시각화하기](https://jaehyojjang.dev/모니터링/grafana-nginx-exporter/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/07/28_00:26-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/07/29_00:30-%23121212?style=flat">
