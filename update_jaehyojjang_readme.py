@@ -7,13 +7,6 @@ RSS_FEED: fd.FeedParserDict = fd.parse(URL)
 MAX_POST: int = 5
 
 CUSTOM_MARKDOWN: str = """
-<p align="center">
-    Visitor count<br>
-    <img src="https://profile-counter.glitch.me/JaehyoJJAng/count.svg" />
-</p>
-
-<br>
-
 ## ✒️ Recent Blog Posts
 """
 
