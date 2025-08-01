@@ -1,11 +1,3 @@
-
-<p align="center">
-    Visitor count<br>
-    <img src="https://profile-counter.glitch.me/JaehyoJJAng/count.svg" />
-</p>
-
-<br>
-
 ## ✒️ Recent Blog Posts
 [2025.07.20 - IDC 엔지니어를 위한 OSI 7계층 트러블슈팅 실전 랩!](https://jaehyojjang.dev/네트워크/eve-ng/idc-osi7-troubleshooting/) <br/>
 [2025.05.25 - [Ansible] Ansible 변수(Variable) 더 자세하게 알아보기 - 인벤토리부터 매직 변수까지 🧙‍♂️](https://jaehyojjang.dev/IaC/Ansible/variable-detail/) <br/>
