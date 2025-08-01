@@ -15,4 +15,4 @@
 [2025.03.20 - [k8s] 쿠버네티스 클러스터 버전 업그레이드 방법 및 주의사항](https://jaehyojjang.dev/쿠버네티스/쿠버네티스%20기본/2025-03-20-cluster-upgrade/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/08/01_16:29-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/08/01_16:31-%23121212?style=flat">
