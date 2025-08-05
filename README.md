@@ -8,4 +8,4 @@
 [2025.05.20 - [Ansible] Ansible로 쿠버네티스(k8s) 클러스터 완전 자동 구축하기 (A-Z)](https://jaehyojjang.dev/IaC/Ansible/k8s%20설치/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/08/05_00:31-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/08/06_00:32-%23121212?style=flat">
