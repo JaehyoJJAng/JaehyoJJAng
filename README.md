@@ -8,4 +8,4 @@
 [2025.05.21 - [Ansible] 앤서블 기반 Kubespray로 쿠버네티스 정말 간단하게 설치하기!](https://jaehyojjang.dev/IaC/Ansible/kubespray/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/08/26_00:26-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/08/27_00:26-%23121212?style=flat">
