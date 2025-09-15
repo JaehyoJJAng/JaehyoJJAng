@@ -8,4 +8,4 @@
 [2025.05.25 - [Ansible] Ansible 변수(Variable) 더 자세하게 알아보기 - 인벤토리부터 매직 변수까지 🧙‍♂️](https://jaehyojjang.dev/IaC/Ansible/variable-detail/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/09/15_00:20-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/09/16_00:25-%23121212?style=flat">
