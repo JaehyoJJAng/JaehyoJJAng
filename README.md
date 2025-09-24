@@ -8,4 +8,4 @@
 [2025.07.20 - IDC 엔지니어를 위한 OSI 7계층 트러블슈팅 실전 랩!](https://jaehyojjang.dev/네트워크/eve-ng/idc-osi7-troubleshooting/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/09/24_00:25-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/09/25_00:25-%23121212?style=flat">
