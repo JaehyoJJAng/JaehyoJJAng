@@ -8,4 +8,4 @@
 [2025.08.01 - [Linux] RHCSA v9 취득을 위한 문제 풀이 정리](https://jaehyojjang.dev/리눅스서버/rhcsa/rhcsa-example-01/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/10/06_00:20-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/10/07_00:24-%23121212?style=flat">
