@@ -8,4 +8,4 @@
 [2025.08.20 - [Linux] 부팅 가능한 백업 디스크 만들기](https://jaehyojjang.dev/리눅스서버/리눅스/부팅%20가능한%20백업%20디스크%20만들기/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/10/11_00:23-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/10/12_00:20-%23121212?style=flat">
