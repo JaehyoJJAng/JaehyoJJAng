@@ -8,4 +8,4 @@
 [2025.09.12 - [Linux] Diskless 기반 PXE 시스템 구축하기](https://jaehyojjang.dev/리눅스서버/리눅스/pxe-diskless/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/10/16_00:23-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/10/17_00:26-%23121212?style=flat">
