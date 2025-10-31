@@ -8,4 +8,4 @@
 [2025.09.19 - [MySQL] 자주 쓰는 쿼리 정리](https://jaehyojjang.dev/language/mysql-query/query/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/10/31_00:29-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/11/01_00:24-%23121212?style=flat">
