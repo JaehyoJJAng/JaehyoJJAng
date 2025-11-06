@@ -8,4 +8,4 @@
 [2025.10.08 - [Linux] DHCP 서버 구축 중 Not configured to listen on any interfaces 에러 발생.](https://jaehyojjang.dev/트러블슈팅/dhcp-error/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/11/06_00:26-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/11/07_00:28-%23121212?style=flat">
