@@ -8,4 +8,4 @@
 [2025.10.09 - [Linux] Rocky 10 설치 시 커널 패닉(Kernel Panic) 발생 - Deprecated hardware](https://jaehyojjang.dev/트러블슈팅/rocky10-old-cpu-issue/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/11/19_00:28-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/11/20_00:27-%23121212?style=flat">
