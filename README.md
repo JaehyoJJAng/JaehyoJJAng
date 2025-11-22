@@ -8,4 +8,4 @@
 [2025.10.10 - [Linux / DELL] iDRAC 설정 및 접속 방법](https://jaehyojjang.dev/리눅스서버/리눅스/dell%20iDRAC%20설정/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/11/22_00:22-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/11/23_00:22-%23121212?style=flat">
