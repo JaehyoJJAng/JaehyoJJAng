@@ -8,4 +8,4 @@
 [2025.10.11 - [Linux] Rocky 10 설치 시 biosboot 파티션 설정 경고](https://jaehyojjang.dev/리눅스서버/리눅스/rocky10-biosboot/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/11/29_00:26-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/11/30_00:23-%23121212?style=flat">
