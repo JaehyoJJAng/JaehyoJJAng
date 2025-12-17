@@ -8,4 +8,4 @@
 [2025.10.25 - [Linux] Rocky iptables 트러블슈팅](https://jaehyojjang.dev/트러블슈팅/iptables-ts/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/12/17_00:30-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/12/18_00:31-%23121212?style=flat">
