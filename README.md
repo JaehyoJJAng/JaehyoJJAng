@@ -8,4 +8,4 @@
 [2025.12.01 - [Linux] system call failed: (EUCLEAN) - 디스크 불량 섹터 이슈](https://jaehyojjang.dev/트러블슈팅/디스크%20불량%20섹터%20이슈/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2025/12/27_00:27-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2025/12/28_00:25-%23121212?style=flat">
