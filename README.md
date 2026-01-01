@@ -8,4 +8,4 @@
 [2025.12.11 - [MySQL] API 구현을 위한 SQL 쿼리 작성 연습](https://jaehyojjang.dev/language/mysql/api%20쿼리%20연습/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2026/01/01_00:28-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2026/01/02_00:28-%23121212?style=flat">
