@@ -8,4 +8,4 @@
 [2025.12.15 - [Python] 데코레이터(Decorator) 실습 - Feat. args, kwargs, JWT](https://jaehyojjang.dev/language/python/decorator/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2026/03/17_01:10-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2026/03/18_01:11-%23121212?style=flat">
