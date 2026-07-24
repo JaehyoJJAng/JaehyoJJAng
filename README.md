@@ -8,4 +8,4 @@
 [2025.12.16 - [Linux] Ubuntu 24.04 -> Rocky 10 마이그레이션](https://jaehyojjang.dev/리눅스서버/리눅스/ubuntu에서%20rocky로%20마이그레이션/) <br/>
 
 
-<img src="https://img.shields.io/badge/최근%20배포일-2026/07/24_01:39-%23121212?style=flat">
+<img src="https://img.shields.io/badge/최근%20배포일-2026/07/25_01:46-%23121212?style=flat">
